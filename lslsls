@@ -1,0 +1,19 @@
+[1mdiff --git a/css/style.css b/css/style.css[m
+[1mindex 5bda5e5..cd0c514 100644[m
+[1m--- a/css/style.css[m
+[1m+++ b/css/style.css[m
+[36m@@ -1 +1 @@[m
+[31m-sdadassdafas[m
+\ No newline at end of file[m
+[32m+[m[32mbirinci dosyam[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex c61cc78..45dd8ac 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,3 +1 @@[m
+[31m-d5121381[m
+[31m-    asddasd5a5dsaasdqwdeq   [m
+[31m-    [m
+\ No newline at end of file[m
+[32m+[m[32mikinci dosyam[m
+\ No newline at end of file[m
