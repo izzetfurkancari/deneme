@@ -5,7 +5,7 @@
 #### -Dizisinin Binary Search Tree aşamaları:
 
 ```
-Root: 7
+   Root: 7
          7
         / \
        5   8
